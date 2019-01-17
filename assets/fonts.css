@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'boysen-light';
+    src: url('./fonts/boysen/Boysen-Light.eot');
+    src: url('./fonts/boysen/Boysen-Light.eot') format('embedded-opentype'), 
+        url('./fonts/boysen/Boysen-Light.woff2') format('woff2'), 
+        url('./fonts/boysen/Boysen-Light.woff') format('woff'),
+        url('./fonts/boysen/Boysen-Light.ttf') format('truetype'), 
+        url('./fonts/boysen/Boysen-Light.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'boysen';
+    src: url('./fonts/boysen/Boysen.eot');
+    src: url('./fonts/boysen/Boysen.eot') format('embedded-opentype'), 
+        url('./fonts/boysen/Boysen.woff2') format('woff2'), 
+        url('./fonts/boysen/Boysen.woff') format('woff'),
+        url('./fonts/boysen/Boysen.ttf') format('truetype'), 
+        url('./fonts/boysen/Boysen.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'boysen-bold';
+    src: url('./fonts/boysen/Boysen-Bold.eot');
+    src: url('./fonts/boysen/Boysen-Bold.eot') format('embedded-opentype'), 
+        url('./fonts/boysen/Boysen-Bold.woff2') format('woff2'), 
+        url('./fonts/boysen/Boysen-Bold.woff') format('woff'),
+        url('./fonts/boysen/Boysen-Bold.ttf') format('truetype'), 
+        url('./fonts/boysen/Boysen-Bold.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'boysen-bold';
+    src: url('./fonts/boysen/Boysen-Bold.eot');
+    src: url('./fonts/boysen/Boysen-Bold.eot') format('embedded-opentype'), 
+        url('./fonts/boysen/Boysen-Bold.woff2') format('woff2'), 
+        url('./fonts/boysen/Boysen-Bold.woff') format('woff'),
+        url('./fonts/boysen/Boysen-Bold.ttf') format('truetype'), 
+        url('./fonts/boysen/Boysen-Bold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'helveticaNeue';
+    src: url('./fonts/neue_helvetica/HelveticaNeueLTCom-Bd.ttf');
+    src: url('./fonts/neue_helvetica/HelveticaNeueLTCom-Bd.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
