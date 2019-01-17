@@ -21,7 +21,7 @@
             </v-layout>
             <v-layout>
                 <v-flex md8 xs8 sm8 offset-md4 offset-xs4 offset-sm4>
-                    <v-rating v-model="rating" color="#00AF7C" background-color="#00AF7C" small></v-rating>
+                    <v-rating v-model="getRating" color="#00AF7C" background-color="#00AF7C" small></v-rating>
                 </v-flex>
             </v-layout>
             <v-layout class="job-title">
@@ -127,8 +127,11 @@ export default {
         return {
             // rating: 4
         }
+    },
+    computed: {
+        getRating () {
+            return parseFloat(this.rating);
+        }
     }
 }
 </script>
-
-      
